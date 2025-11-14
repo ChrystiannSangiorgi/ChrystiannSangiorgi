@@ -4,7 +4,7 @@
 
 
   
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Olá, atualmente estou cursando ciencia da computaçao e Inglês, meu foco será a area de cloud ou gerenciamento de projetos.
 
 - 🎓 Estudando Ciência da computação na Unicid 1/8.
 
@@ -27,4 +27,14 @@
 
 ---
 # Contato
+<p align="center">
+  <a href="https://www.linkedin.com/in/chrystiann-sangiorgi-a5450037a" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 
+  <a href="https://www.instagram.com/chrys_sangiorgi/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+
+
+</p>
