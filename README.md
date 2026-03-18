@@ -6,9 +6,9 @@
   
 - 🤔 Olá, atualmente estou cursando ciencia da computaçao e Inglês, meu foco será a area de cloud ou gerenciamento de projetos.
 
-- 🎓 Estudando Ciência da computação na Unicid 1/8.
+- 🎓 Estudando Ciência da computação na Unicid 2/8.
 
-- 🌱 Aprendendo mais sobre Logica da programação, banco de dados, semanticas em C, estruturas HTML e CSS.
+- 🌱 Aprendendo mais sobre Logica da programação, banco de dados, semanticas em C, estruturas HTML, CSS, javascript, prototipagem de sistemas, Python e jornada do usuario
 <br>
   
   <br>
