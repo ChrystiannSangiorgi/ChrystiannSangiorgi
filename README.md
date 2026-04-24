@@ -9,6 +9,7 @@
 - 🎓 Estudando Ciência da computação na Unicid 2/8.
 
 - 🌱 Aprendendo mais sobre Logica da programação, banco de dados, semanticas em C, estruturas HTML, CSS, javascript, prototipagem de sistemas, Python e jornada do usuario
+- Transição de carreira para Tech apoiada por +15 anos de experiência em liderança e gestão de processos, trazendo uma visão estratégica para o desenvolvimento de software.
 <br>
   
   <br>
