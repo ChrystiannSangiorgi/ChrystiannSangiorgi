@@ -11,7 +11,7 @@
 
 - 🏥 **VitaUBS** — App mobile que ajuda idosos a checarem disponibilidade de medicamentos em postos de saúde (UBS). PM e Scrum Master de uma equipe de 5 pessoas.
 - 📊 **[Impulso Pro](https://github.com/ChrystiannSangiorgi/impulso-pro)** — SaaS full-stack de gestão de treinamentos para redes de restaurantes. Stack: Python/FastAPI · React · MySQL. Projeto solo com Scrum adaptado via GitHub Projects, banco normalizado em 3NF, auth JWT.
-- 🤖 **[Pertinho](https://github.com/ChrystiannSangiorgi/portfolio-chrystiann-caesar-sangiorgi-de-oliveira/tree/main/projeto-desenvolvimento-de-app-de-video-conferencia-com-manus-ai-e-jitsi)** — App de videochamada para idosos com integração Jitsi Meet, desenvolvido com auxílio do Manus AI.
+
 
 📚 **Mais projetos:** [portfólio acadêmico completo →](https://github.com/ChrystiannSangiorgi/portfolio-chrystiann-caesar-sangiorgi-de-oliveira)
 
