@@ -22,11 +22,34 @@ Desenvolvido solo com Scrum adaptado via GitHub Projects, banco normalizado em 3
 
 ## 🛠️ Stack
 
-**Back-end:** Python · FastAPI · SQLAlchemy · Pydantic · JWT · bcrypt
-**Banco de dados:** MySQL · SQL · Modelagem relacional · Normalização 3FN
-**Front-end:** React · TypeScript · Tailwind CSS · Vite · Axios
-**Processo:** Scrum · GitHub Projects · Conventional Commits · GitHub Wiki
-**Em estudo:** Docker · AWS · Data Engineering · Pytest
+**Back-end**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**Banco de dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Front-end**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Processo & Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+**Em estudo**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ---
 
@@ -46,5 +69,5 @@ Interesse futuro em Cloud e Engenharia de Dados.
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chrystiann_Sangiorgi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chrystiann-sangiorgi-a5450037a)
-[![Email](https://img.shields.io/badge/Email-chryscaesar@hotmail.com-red?style=flat&logo=gmail)](mailto:chryscaesar@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chrystiann_Sangiorgi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrystiann-sangiorgi-a5450037a)
+[![Email](https://img.shields.io/badge/Email-chryscaesar@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chryscaesar@hotmail.com)
