@@ -53,12 +53,6 @@ Desenvolvido solo com Scrum adaptado via GitHub Projects, banco normalizado em 3
 
 ---
 
-## 📊 Estatísticas
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrystiannSangiorgi&show_icons=true&theme=dark&hide_border=true)](https://github.com/ChrystiannSangiorgi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrystiannSangiorgi&layout=compact&theme=dark&hide_border=true)](https://github.com/ChrystiannSangiorgi)
-
----
 
 ## 💼 Aberto a oportunidades
 
