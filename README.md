@@ -4,7 +4,7 @@ Estudante de Ciência da Computação em transição para tech, com +15 anos de 
 
 🎯 **Foco profissional:** Desenvolvimento Back-end · Python / FastAPI · API REST
 🔭 **Próximos passos:** Cloud (AWS) · Engenharia de Dados
-🎓 **Formação:** Ciência da Computação · UNICID · 2º semestre
+🎓 **Formação:** Ciência da Computação · UNICID · 3º semestre
 
 ---
 
